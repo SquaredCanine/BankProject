@@ -1,0 +1,7 @@
+nl\project34\henk\server\Encode.class
+nl\project34\henk\server\Server.class
+nl\project34\henk\server\Decode.class
+nl\project34\henk\server\Database.class
+nl\project34\henk\server\MockDatabase.class
+nl\project34\henk\server\BankEndpoint.class
+nl\project34\henk\server\DatabaseImpl.class

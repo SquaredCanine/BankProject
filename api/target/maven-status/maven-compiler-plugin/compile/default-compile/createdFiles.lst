@@ -1,0 +1,13 @@
+nl\project34\henk\api\CheckPasResponse.class
+nl\project34\henk\api\BalanceResponse.class
+nl\project34\henk\api\CheckPasRequest.class
+nl\project34\henk\api\CheckPinRequest.class
+nl\project34\henk\api\GeblokkeerdRequest.class
+nl\project34\henk\api\TransactieResponse.class
+nl\project34\henk\api\CheckPinResponse.class
+nl\project34\henk\api\BalanceRequest.class
+nl\project34\henk\api\WithdrawRequest.class
+nl\project34\henk\api\WithdrawResponse.class
+nl\project34\henk\api\GeblokkeerdResponse.class
+nl\project34\henk\api\RekeningOverzichtResponse.class
+nl\project34\henk\api\OverigeRekeningenResponse.class
